@@ -16,11 +16,11 @@
 * Download This EFI and Place it in the Root of USB
   
 ## What Works?
- - Boots Till Installer
+ * Boots Till Installer
  
 ## Issues
 - iGPU (Not Tested Yet)
-- Wifi/Bluetooth
+- Wifi/Bluetooth (Not Tested Yet)
 - HDMI (Will Never Work)
 
 ## Important
