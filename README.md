@@ -15,13 +15,13 @@
 * Make a Installer USB (Have a Look [Here](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html#downloading-macos))
 * Download This EFI and Place it in the Root of USB
    
+## What's New?
+- Wifi Works Now
+- Internet Works with android USB Tethering
+- Open For Contributions
+
 ## Issues
 - Bluetooth
 - Trackpad
 - Keyboard Function keys
 - HDMI (Will Never Work)
-
-## Important
-- Wifi Works Now
-- Internet Works with android USB Tethering
-- Open For Contributions
