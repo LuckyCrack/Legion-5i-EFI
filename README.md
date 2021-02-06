@@ -16,11 +16,12 @@
 * Download This EFI and Place it in the Root of USB
    
 ## Issues
-- Wifi/Bluetooth (Injecting this [Kext](https://github.com/OpenIntelWireless/itlwm) causes the screen to Dim and nothing is visible)
+- Bluetooth
 - Trackpad
 - Keyboard Function keys
 - HDMI (Will Never Work)
 
 ## Important
+- Wifi Works Now
 - Internet Works with android USB Tethering
 - Open For Contributions
