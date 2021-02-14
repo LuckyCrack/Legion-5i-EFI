@@ -2,7 +2,7 @@
 ## This EFI was made using [Dortania Laptop Guide](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/coffee-lake-plus.html)
 
 ### Online Installer, gibMacOS wont work!
-### Tested on Catalina 10.15.7
+### Tested on Catalina 10.15.7 and Big Sur 11.2.1 
 
 
 ## Specs
