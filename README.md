@@ -1,7 +1,7 @@
 # Legion 5i EFI (i5-10300H)
 ## This EFI was made using [Dortania Laptop Guide](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/coffee-lake-plus.html)
 
-### Online Installer, gibMacOS wont work!
+### Online Installer, gibMacOS won't work!
 ### Tested on Catalina 10.15.7 and Big Sur 11.2.1 
 
 
