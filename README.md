@@ -23,5 +23,4 @@
 ## Issues
 - Bluetooth
 - Trackpad
-- Keyboard Function keys
 - HDMI (Will Never Work)
