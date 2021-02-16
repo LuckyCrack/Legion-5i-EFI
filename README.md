@@ -22,5 +22,4 @@
 
 ## Issues
 - Bluetooth
-- Trackpad
 - HDMI (Will Never Work)
